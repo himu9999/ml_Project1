@@ -1,3 +1,1 @@
 End-to-End ML Project with deployment
-
-Github token - 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
